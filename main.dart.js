@@ -53946,7 +53946,7 @@ A.fK.prototype={
 oP(){var s=0,r=A.T(t.z),q=this,p,o,n
 var $async$oP=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:n=q.ch===0
-B.hq.Ep(29)
+B.hq.Ep(31)
 p=n?0:10
 o=t.z
 case 2:if(!!0){s=3
@@ -53995,7 +53995,7 @@ $1(a){var s,r,q,p=null,o=this.a
 if(!o.ay)o=new A.z7(p)
 else{s=o.ch
 s=A.afY(p,p,new A.jP("images/bottlecap_"+s+".png",p,p))
-r=B.hq.Ep(29)
+r=B.hq.Ep(31)
 q=o.ch===10?$.alj[r].toUpperCase():""
 o=A.a6s(A.LJ(p,A.wC(A.a1S(p,A.UJ(B.dH,A.a([new A.pA(s,300,B.fI,p),A.LJ(p,A.wC(new A.Ca(q,p,A.alq().$3$color$fontSize$fontWeight(A.bx(255,23,34,23),20,B.cA),B.du,p),p,p),p,p,p,300,p,new A.bA(55,55,55,55),300)],t.nA),B.ff),B.b6,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.OZ(o),p,p,p),p,p),p,p,new A.hr(p,new A.xn(new A.jP("images/background.jpg",p,p),B.fI),p,p,p,p,B.bw),1/0,p,p,1/0))}return o},
 $S:322}
@@ -58237,7 +58237,7 @@ $.cR=A.y(t.N,A.a9("tY<@>"))
 $.a4h=null
 $.a3e=A.av(t.N)
 $.a9l=A.av(t.pz)
-$.alj=A.a(["K\xe9pes vagy r\xe1!","Csak te \xe9s \xe9n :)","Nyugodj meg, att\xf3l megnyugszol","Kezd \xf6ssze\xe1lni :)","A legjob vagy! ;)","Little pig, little pig, let in me!","Say my name! ","Ahol \xe1rny\xe9k van, ott f\xe9ny is!","NEM VAGYOK BUZI!!","S\xf6t\xe9tbe is f\xe9nyes vagy","Never gonna give you up","\xc9n Sv\xe1jc vagyok","Nekem lehet j\xf3!","Mes\xe9lek a bornak","Mes\xe9ld el m\xe9gegyszer","Sweet Caroline","Good times never seem so good","Ember most j\xf6v\xf6k ki a templomb\xf3l","NA \xe9n olyat nem j\xe1tszok!!","Kell egy kis bulika! :D","VAN EGY SZ\xc1L CIGID?","Nyugi! :)","Aki nem b\xedrja minek iszik? Igaaz M\xe1t\xe9?","Ha ideges vagy, csak nyugodj le.","Holnap \xe9n m\xe1r nem j\xf6v\xf6k be","Go Haza","holnaptol tappenzen vok cs","holnaptol igazolatlan","igy van"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+$.alj=A.a(["K\xe9pes vagy r\xe1!","Csak te \xe9s \xe9n :)","Nyugodj meg, att\xf3l megnyugszol","Kezd \xf6ssze\xe1lni :)","A legjob vagy! ;)","Little pig, little pig, let in me!","Say my name! ","Ahol \xe1rny\xe9k van, ott f\xe9ny is!","NEM VAGYOK BUZI!!","S\xf6t\xe9tbe is f\xe9nyes vagy","Never gonna give you up","\xc9n Sv\xe1jc vagyok","Nekem lehet j\xf3!","Mes\xe9lek a bornak","Mes\xe9ld el m\xe9gegyszer","Sweet Caroline","Good times never seem so good","Ember most j\xf6v\xf6k ki a templomb\xf3l","NA \xe9n olyat nem j\xe1tszok!!","Kell egy kis bulika! :D","VAN EGY SZ\xc1L CIGID?","Nyugi! :)","Aki nem b\xedrja minek iszik? Igaaz M\xe1t\xe9?","Ha ideges vagy, csak nyugodj le.","Holnap \xe9n m\xe1r nem j\xf6v\xf6k be","Go Haza","holnaptol tappenzen vok cs","holnaptol igazolatlan","igy van","Valamikor az \xe9let azt mondja, hogy:Hello! ","Jani vagyok!"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"aoj","bs",()=>{var q="navigator"
 return A.aky(A.aer(A.x(A.x(self.window,q),"vendor")),B.d.WW(A.ady(A.x(self.window,q))))})
 s($,"aoX","c8",()=>A.akA())
